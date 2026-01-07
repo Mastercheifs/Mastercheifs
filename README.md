@@ -11,6 +11,8 @@ I am currently working for AI & Robotics
 * Image & Text Encoding
 * Robot motion planning
 * Visual language model(researching)
+
+I am writing my past researches. So not enough datas right now. 2026/01/7
   
 <!--
 **Mastercheifs/Mastercheifs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
