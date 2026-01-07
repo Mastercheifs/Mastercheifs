@@ -1,5 +1,17 @@
-## Hi there 👋
+## Kyu Tae's Github 👋
+I am currently working for AI & Robotics
 
+
+## Job Timeline
+* Green Ship Laboratory (KMOU)
+* PNU IRL(Interactive Robotics Laboratory)
+
+## Interest
+* Computer vision
+* Image & Text Encoding
+* Robot motion planning
+* Visual language model(researching)
+  
 <!--
 **Mastercheifs/Mastercheifs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
