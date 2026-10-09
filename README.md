@@ -5,7 +5,7 @@ I am currently working for AI & Robotics
 ## Job Timeline
 * Green Ship Laboratory (KMOU)
 * PNU IRL(Interactive Robotics Laboratory)
-* 주식회사 씬그립 - 로봇 비전 엔지니어
+* Seengrip Inc. - Robot Vision Engineer
 
 ## Interest
 * Computer vision
