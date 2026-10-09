@@ -11,7 +11,7 @@ I am currently working for AI & Robotics
 * Computer vision
 * Image & Text Encoding
 * Robot motion planning
-* Visual language model(researching)
+* TTS(Text-to-Speech)
 
 I am writing my past researches. So not enough datas right now. 2026/01/7
   
